@@ -1,0 +1,4 @@
+load("/Users/ssarma/Dropbox1/Dropbox/MATH 267/Assignments/PS4/ps04p3.RData")
+ps04p3
+x<-load("/Users/ssarma/Dropbox1/Dropbox/MATH 267/Assignments/PS4/ps04p3.RData")
+x
